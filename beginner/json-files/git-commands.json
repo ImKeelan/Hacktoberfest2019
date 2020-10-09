@@ -338,4 +338,8 @@
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
   }
+  {
+    "title": "git clone",
+    "description": "This command allows a user to clone a git repository to use or work on. Example: git clone *url* "
+  }
 ]
